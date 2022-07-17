@@ -1,0 +1,17 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "main": "coronadetail.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}

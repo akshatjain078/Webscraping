@@ -1,0 +1,4 @@
+*node_modules
+*.autosave
+build-QtNotepad-Desktop-Debug
+*Release
